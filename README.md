@@ -1,4 +1,4 @@
 babyBubble
 ==========
 
-this is a game that baby click bubble
+宝宝通过吹话筒，不断地产出泡泡，泡泡里包含字母可供宝宝学习用
